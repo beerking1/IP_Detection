@@ -1,0 +1,7 @@
+C:\Users\janbi\source\repos\IP_Detection\IP_Detection\bin\Debug\IP_Detection.exe.config
+C:\Users\janbi\source\repos\IP_Detection\IP_Detection\bin\Debug\IP_Detection.exe
+C:\Users\janbi\source\repos\IP_Detection\IP_Detection\bin\Debug\IP_Detection.pdb
+C:\Users\janbi\source\repos\IP_Detection\IP_Detection\obj\Debug\IP_Detection.csproj.AssemblyReference.cache
+C:\Users\janbi\source\repos\IP_Detection\IP_Detection\obj\Debug\IP_Detection.csproj.CoreCompileInputs.cache
+C:\Users\janbi\source\repos\IP_Detection\IP_Detection\obj\Debug\IP_Detection.exe
+C:\Users\janbi\source\repos\IP_Detection\IP_Detection\obj\Debug\IP_Detection.pdb
